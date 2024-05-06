@@ -1,0 +1,1 @@
+This is a chatbot project for fortune by a set of texts.
